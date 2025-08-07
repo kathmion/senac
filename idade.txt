@@ -1,0 +1,9 @@
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+
+a = int(input("digite um número: "))
+b = int(input("digite outro numero:"))
+if(a == b):
+    print("numeros iguais!")
+else:
+    print("numeros dierentes")
